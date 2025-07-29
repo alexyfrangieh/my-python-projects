@@ -1,0 +1,142 @@
+2025-07-29 06:50:58,387 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet' with exiftool...
+2025-07-29 06:50:58,387 - INFO - Running exiftool command: exiftool -csv -r -progress -SourceFile -FileName -ShutterCount -LightValue -SubSecCreateDate -DateTimeOriginal -TimeZone -ISO -Aperture -ShutterSpeed -Model -SerialNumber -FileSize -Make -FocalLength -Lens -ExposureProgram -WB_RBLevels -WB_GRBGLevels -ImageWidth -ImageHeight -GPSLatitude -GPSLongitude -Orientation -WhiteBalance /mnt/pool/Qornet
+2025-07-29 07:34:11,333 - INFO - ✅ Script finished.
+2025-07-29 07:34:22,624 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet' with exiftool...
+2025-07-29 07:34:22,624 - INFO - Running exiftool command: exiftool -csv -r -progress -SourceFile -FileName -ShutterCount -LightValue -SubSecCreateDate -DateTimeOriginal -TimeZone -ISO -Aperture -ShutterSpeed -Model -SerialNumber -FileSize -Make -FocalLength -Lens -ExposureProgram -WB_RBLevels -WB_GRBGLevels -ImageWidth -ImageHeight -GPSLatitude -GPSLongitude -Orientation -WhiteBalance /mnt/pool/Qornet
+2025-07-29 07:34:53,494 - INFO - ✅ Script finished.
+2025-07-29 07:37:22,850 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet' with exiftool...
+2025-07-29 07:37:22,850 - INFO - Running exiftool command: exiftool -csv -r -progress -SourceFile -FileName -ShutterCount -LightValue -SubSecCreateDate -DateTimeOriginal -TimeZone -ISO -Aperture -ShutterSpeed -Model -SerialNumber -FileSize -Make -FocalLength -Lens -ExposureProgram -WB_RBLevels -WB_GRBGLevels -ImageWidth -ImageHeight -GPSLatitude -GPSLongitude -Orientation -WhiteBalance /mnt/pool/Qornet
+2025-07-29 08:08:54,347 - INFO - ✅ Script finished.
+2025-07-29 08:09:13,649 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet' with exiftool...
+2025-07-29 08:09:13,649 - INFO - Running exiftool command: exiftool -csv -r -progress -SourceFile -FileName -ShutterCount -LightValue -SubSecCreateDate -DateTimeOriginal -TimeZone -ISO -Aperture -ShutterSpeed -Model -SerialNumber -FileSize -Make -FocalLength -Lens -ExposureProgram -WB_RBLevels -WB_GRBGLevels -ImageWidth -ImageHeight -GPSLatitude -GPSLongitude -Orientation -WhiteBalance /mnt/pool/Qornet
+2025-07-29 09:28:32,042 - INFO - ✅ Script finished.
+2025-07-29 10:43:05,739 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet' with exiftool...
+2025-07-29 10:43:05,739 - INFO - Running exiftool command: exiftool -csv -r -progress -SourceFile -FileName -ShutterCount -LightValue -SubSecCreateDate -DateTimeOriginal -TimeZone -ISO -Aperture -ShutterSpeed -Model -SerialNumber -FileSize -Make -FocalLength -Lens -ExposureProgram -WB_RBLevels -WB_GRBGLevels -ImageWidth -ImageHeight -GPSLatitude -GPSLongitude -Orientation -WhiteBalance /mnt/pool/Qornet
+2025-07-29 10:45:19,637 - INFO - ✅ Script finished.
+2025-07-29 10:45:50,013 - INFO - 📸 Extracting EXIF data from '/mnt/pool/sohdo/Sohdo_2012_Ehden' with exiftool...
+2025-07-29 10:45:50,013 - INFO - Running exiftool command: exiftool -csv -r -progress -SourceFile -FileName -ShutterCount -LightValue -SubSecCreateDate -DateTimeOriginal -TimeZone -ISO -Aperture -ShutterSpeed -Model -SerialNumber -FileSize -Make -FocalLength -Lens -ExposureProgram -WB_RBLevels -WB_GRBGLevels -ImageWidth -ImageHeight -GPSLatitude -GPSLongitude -Orientation -WhiteBalance /mnt/pool/sohdo/Sohdo_2012_Ehden
+2025-07-29 10:47:23,856 - INFO - ✅ Script finished.
+2025-07-29 11:43:22,232 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet' with exiftool...
+2025-07-29 11:43:22,233 - INFO - Running exiftool command: exiftool -csv -r -SourceFile -FileName -ShutterCount -LightValue -SubSecCreateDate -DateTimeOriginal -TimeZone -ISO -Aperture -ShutterSpeed -Model -SerialNumber -FileSize -Make -FocalLength -Lens -ExposureProgram -WB_RBLevels -WB_GRBGLevels -ImageWidth -ImageHeight -GPSLatitude -GPSLongitude -Orientation -WhiteBalance /mnt/pool/Qornet
+2025-07-29 11:45:10,648 - INFO - ✅ Script finished.
+2025-07-29 11:47:26,682 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet' with exiftool...
+2025-07-29 11:47:26,682 - INFO - Running exiftool command: exiftool -csv -r -SourceFile -FileName -ShutterCount -LightValue -SubSecCreateDate -DateTimeOriginal -TimeZone -ISO -Aperture -ShutterSpeed -Model -SerialNumber -FileSize -Make -FocalLength -Lens -ExposureProgram -WB_RBLevels -WB_GRBGLevels -ImageWidth -ImageHeight -GPSLatitude -GPSLongitude -Orientation -WhiteBalance /mnt/pool/Qornet
+2025-07-29 11:48:51,752 - INFO - ✅ Script finished.
+2025-07-29 11:49:11,967 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet' with exiftool...
+2025-07-29 11:49:11,967 - INFO - Running exiftool command: exiftool -csv -r -SourceFile -FileName -ShutterCount -LightValue -SubSecCreateDate -DateTimeOriginal -TimeZone -ISO -Aperture -ShutterSpeed -Model -SerialNumber -FileSize -Make -FocalLength -Lens -ExposureProgram -WB_RBLevels -WB_GRBGLevels -ImageWidth -ImageHeight -GPSLatitude -GPSLongitude -Orientation -WhiteBalance /mnt/pool/Qornet
+2025-07-29 11:50:03,705 - INFO - ✅ Script finished.
+2025-07-29 11:57:33,178 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet' with exiftool...
+2025-07-29 11:57:33,178 - INFO - Running exiftool command: exiftool -csv -r -SourceFile -FileName -ShutterCount -LightValue -SubSecCreateDate -DateTimeOriginal -TimeZone -ISO -Aperture -ShutterSpeed -Model -SerialNumber -FileSize -Make -FocalLength -Lens -ExposureProgram -WB_RBLevels -WB_GRBGLevels -ImageWidth -ImageHeight -GPSLatitude -GPSLongitude -Orientation -WhiteBalance /mnt/pool/Qornet
+2025-07-29 12:03:51,983 - INFO - ✅ Script finished.
+2025-07-29 12:04:22,780 - INFO - Exiftool version: 12.76
+2025-07-29 12:04:22,780 - INFO - Starting EXIF processing for project: Qornet
+2025-07-29 12:04:22,780 - INFO - Input directory: /mnt/pool/Qornet
+2025-07-29 12:04:22,780 - INFO - Timeout: 1800 seconds
+2025-07-29 12:04:22,781 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet' with exiftool...
+2025-07-29 12:04:22,781 - INFO - Counting image files...
+2025-07-29 12:04:40,479 - INFO - Found approximately 310072 image files
+2025-07-29 12:04:40,479 - INFO - Running exiftool command: exiftool -csv -r -ignoreMinorErrors -quiet -fast2 -SourceFile -FileName -ShutterCount -LightValue... (truncated)
+2025-07-29 12:04:40,479 - INFO - Timeout set to 1800 seconds
+2025-07-29 12:04:40,481 - INFO - Exiftool process started, monitoring progress...
+2025-07-29 12:05:10,488 - INFO - Exiftool still processing... Elapsed: 30.0s
+2025-07-29 12:05:40,495 - INFO - Exiftool still processing... Elapsed: 60.0s
+2025-07-29 12:06:10,501 - INFO - Exiftool still processing... Elapsed: 90.0s
+2025-07-29 12:06:40,508 - INFO - Exiftool still processing... Elapsed: 120.0s
+2025-07-29 12:07:10,515 - INFO - Exiftool still processing... Elapsed: 150.0s
+2025-07-29 12:07:40,522 - INFO - Exiftool still processing... Elapsed: 180.0s
+2025-07-29 12:08:10,529 - INFO - Exiftool still processing... Elapsed: 210.0s
+2025-07-29 12:08:40,537 - INFO - Exiftool still processing... Elapsed: 240.1s
+2025-07-29 12:09:10,544 - INFO - Exiftool still processing... Elapsed: 270.1s
+2025-07-29 12:09:40,551 - INFO - Exiftool still processing... Elapsed: 300.1s
+2025-07-29 12:10:10,558 - INFO - Exiftool still processing... Elapsed: 330.1s
+2025-07-29 12:10:40,566 - INFO - Exiftool still processing... Elapsed: 360.1s
+2025-07-29 12:11:10,573 - INFO - Exiftool still processing... Elapsed: 390.1s
+2025-07-29 12:11:40,580 - INFO - Exiftool still processing... Elapsed: 420.1s
+2025-07-29 12:12:10,588 - INFO - Exiftool still processing... Elapsed: 450.1s
+2025-07-29 12:12:40,595 - INFO - Exiftool still processing... Elapsed: 480.1s
+2025-07-29 12:13:10,603 - INFO - Exiftool still processing... Elapsed: 510.1s
+2025-07-29 12:13:40,610 - INFO - Exiftool still processing... Elapsed: 540.1s
+2025-07-29 12:14:10,617 - INFO - Exiftool still processing... Elapsed: 570.1s
+2025-07-29 12:14:40,625 - INFO - Exiftool still processing... Elapsed: 600.1s
+2025-07-29 12:15:10,632 - INFO - Exiftool still processing... Elapsed: 630.2s
+2025-07-29 12:15:40,639 - INFO - Exiftool still processing... Elapsed: 660.2s
+2025-07-29 12:16:10,647 - INFO - Exiftool still processing... Elapsed: 690.2s
+2025-07-29 12:16:40,654 - INFO - Exiftool still processing... Elapsed: 720.2s
+2025-07-29 12:17:10,661 - INFO - Exiftool still processing... Elapsed: 750.2s
+2025-07-29 12:17:40,669 - INFO - Exiftool still processing... Elapsed: 780.2s
+2025-07-29 12:18:10,676 - INFO - Exiftool still processing... Elapsed: 810.2s
+2025-07-29 12:18:40,682 - INFO - Exiftool still processing... Elapsed: 840.2s
+2025-07-29 12:19:10,689 - INFO - Exiftool still processing... Elapsed: 870.2s
+2025-07-29 12:19:40,696 - INFO - Exiftool still processing... Elapsed: 900.2s
+2025-07-29 12:20:10,703 - INFO - Exiftool still processing... Elapsed: 930.2s
+2025-07-29 12:20:40,710 - INFO - Exiftool still processing... Elapsed: 960.2s
+2025-07-29 12:21:10,718 - INFO - Exiftool still processing... Elapsed: 990.2s
+2025-07-29 12:21:40,723 - INFO - Exiftool still processing... Elapsed: 1020.2s
+2025-07-29 12:22:10,728 - INFO - Exiftool still processing... Elapsed: 1050.2s
+2025-07-29 12:22:40,734 - INFO - Exiftool still processing... Elapsed: 1080.3s
+2025-07-29 12:23:03,013 - INFO - Received interruption signal. Cleaning up...
+2025-07-29 12:23:03,013 - INFO - Terminating exiftool process...
+2025-07-29 12:23:05,735 - INFO - Received interruption signal. Cleaning up...
+2025-07-29 12:23:05,736 - INFO - Temporary files cleaned up
+2025-07-29 12:23:17,843 - INFO - Exiftool version: 12.76
+2025-07-29 12:23:17,843 - INFO - Starting EXIF processing for project: 2022
+2025-07-29 12:23:17,843 - INFO - Input directory: /mnt/pool/Qornet/2022
+2025-07-29 12:23:17,843 - INFO - Timeout: 1800 seconds
+2025-07-29 12:23:17,844 - INFO - 📸 Extracting EXIF data from '/mnt/pool/Qornet/2022' with exiftool...
+2025-07-29 12:23:17,844 - INFO - Counting image files...
+2025-07-29 12:23:19,182 - INFO - Found approximately 18656 image files
+2025-07-29 12:23:19,183 - INFO - Running exiftool command: exiftool -csv -r -ignoreMinorErrors -quiet -fast2 -SourceFile -FileName -ShutterCount -LightValue... (truncated)
+2025-07-29 12:23:19,183 - INFO - Timeout set to 1800 seconds
+2025-07-29 12:23:19,184 - INFO - Exiftool process started, monitoring progress...
+2025-07-29 12:23:49,191 - INFO - Exiftool still processing... Elapsed: 30.0s
+2025-07-29 12:24:19,199 - INFO - Exiftool still processing... Elapsed: 60.0s
+2025-07-29 12:24:49,206 - INFO - Exiftool still processing... Elapsed: 90.0s
+2025-07-29 12:25:19,213 - INFO - Exiftool still processing... Elapsed: 120.0s
+2025-07-29 12:25:49,220 - INFO - Exiftool still processing... Elapsed: 150.0s
+2025-07-29 12:26:19,227 - INFO - Exiftool still processing... Elapsed: 180.0s
+2025-07-29 12:26:49,233 - INFO - Exiftool still processing... Elapsed: 210.0s
+2025-07-29 12:27:19,240 - INFO - Exiftool still processing... Elapsed: 240.1s
+2025-07-29 12:27:49,248 - INFO - Exiftool still processing... Elapsed: 270.1s
+2025-07-29 12:28:19,255 - INFO - Exiftool still processing... Elapsed: 300.1s
+2025-07-29 12:28:49,262 - INFO - Exiftool still processing... Elapsed: 330.1s
+2025-07-29 12:29:19,270 - INFO - Exiftool still processing... Elapsed: 360.1s
+2025-07-29 12:29:49,277 - INFO - Exiftool still processing... Elapsed: 390.1s
+2025-07-29 12:30:19,285 - INFO - Exiftool still processing... Elapsed: 420.1s
+2025-07-29 12:30:49,292 - INFO - Exiftool still processing... Elapsed: 450.1s
+2025-07-29 12:31:19,300 - INFO - Exiftool still processing... Elapsed: 480.1s
+2025-07-29 12:31:49,307 - INFO - Exiftool still processing... Elapsed: 510.1s
+2025-07-29 12:32:19,315 - INFO - Exiftool still processing... Elapsed: 540.1s
+2025-07-29 12:32:49,322 - INFO - Exiftool still processing... Elapsed: 570.1s
+2025-07-29 12:33:19,330 - INFO - Exiftool still processing... Elapsed: 600.1s
+2025-07-29 12:33:49,337 - INFO - Exiftool still processing... Elapsed: 630.2s
+2025-07-29 12:34:19,344 - INFO - Exiftool still processing... Elapsed: 660.2s
+2025-07-29 12:34:49,352 - INFO - Exiftool still processing... Elapsed: 690.2s
+2025-07-29 12:35:19,359 - INFO - Exiftool still processing... Elapsed: 720.2s
+2025-07-29 12:35:49,366 - INFO - Exiftool still processing... Elapsed: 750.2s
+2025-07-29 12:36:19,374 - INFO - Exiftool still processing... Elapsed: 780.2s
+2025-07-29 12:36:49,381 - INFO - Exiftool still processing... Elapsed: 810.2s
+2025-07-29 12:37:19,386 - INFO - Exiftool still processing... Elapsed: 840.2s
+2025-07-29 12:37:49,391 - INFO - Exiftool still processing... Elapsed: 870.2s
+2025-07-29 12:38:19,396 - INFO - Exiftool still processing... Elapsed: 900.2s
+2025-07-29 12:38:49,401 - INFO - Exiftool still processing... Elapsed: 930.2s
+2025-07-29 12:39:19,407 - INFO - Exiftool still processing... Elapsed: 960.2s
+2025-07-29 12:39:49,415 - INFO - Exiftool still processing... Elapsed: 990.2s
+2025-07-29 12:40:19,422 - INFO - Exiftool still processing... Elapsed: 1020.2s
+2025-07-29 12:40:49,429 - INFO - Exiftool still processing... Elapsed: 1050.2s
+2025-07-29 12:41:19,436 - INFO - Exiftool still processing... Elapsed: 1080.3s
+2025-07-29 12:41:49,443 - INFO - Exiftool still processing... Elapsed: 1110.3s
+2025-07-29 12:42:19,450 - INFO - Exiftool still processing... Elapsed: 1140.3s
+2025-07-29 12:42:49,457 - INFO - Exiftool still processing... Elapsed: 1170.3s
+2025-07-29 12:43:19,464 - INFO - Exiftool still processing... Elapsed: 1200.3s
+2025-07-29 12:43:49,471 - INFO - Exiftool still processing... Elapsed: 1230.3s
+2025-07-29 12:44:19,479 - INFO - Exiftool still processing... Elapsed: 1260.3s
+2025-07-29 12:44:49,486 - INFO - Exiftool still processing... Elapsed: 1290.3s
+2025-07-29 12:45:19,493 - INFO - Exiftool still processing... Elapsed: 1320.3s
+2025-07-29 12:45:49,500 - INFO - Exiftool still processing... Elapsed: 1350.3s
+2025-07-29 12:46:19,507 - INFO - Exiftool still processing... Elapsed: 1380.3s
+2025-07-29 12:46:49,514 - INFO - Exiftool still processing... Elapsed: 1410.3s
+2025-07-29 12:47:19,522 - INFO - Exiftool still processing... Elapsed: 1440.3s
+2025-07-29 12:47:49,529 - INFO - Exiftool still processing... Elapsed: 1470.3s
+2025-07-29 12:48:19,536 - INFO - Exiftool still processing... Elapsed: 1500.4s
+2025-07-29 12:48:49,543 - INFO - Exiftool still processing... Elapsed: 1530.4s
+2025-07-29 12:49:19,548 - INFO - Exiftool still processing... Elapsed: 1560.4s
