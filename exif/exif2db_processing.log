@@ -140,3 +140,15 @@
 2025-07-29 12:48:19,536 - INFO - Exiftool still processing... Elapsed: 1500.4s
 2025-07-29 12:48:49,543 - INFO - Exiftool still processing... Elapsed: 1530.4s
 2025-07-29 12:49:19,548 - INFO - Exiftool still processing... Elapsed: 1560.4s
+2025-07-29 12:49:49,555 - INFO - Exiftool still processing... Elapsed: 1590.4s
+2025-07-29 12:50:19,563 - INFO - Exiftool still processing... Elapsed: 1620.4s
+2025-07-29 12:50:49,571 - INFO - Exiftool still processing... Elapsed: 1650.4s
+2025-07-29 12:51:19,577 - INFO - Exiftool still processing... Elapsed: 1680.4s
+2025-07-29 12:51:49,584 - INFO - Exiftool still processing... Elapsed: 1710.4s
+2025-07-29 12:52:19,591 - INFO - Exiftool still processing... Elapsed: 1740.4s
+2025-07-29 12:52:49,598 - INFO - Exiftool still processing... Elapsed: 1770.4s
+2025-07-29 12:53:19,605 - INFO - Exiftool still processing... Elapsed: 1800.4s
+2025-07-29 12:53:19,606 - ERROR - Exiftool process timed out after 1800 seconds
+2025-07-29 12:53:24,606 - ERROR - Exiftool command timed out after 1800 seconds
+2025-07-29 12:53:24,606 - ERROR - This might indicate a problematic file or very large directory
+2025-07-29 12:53:24,607 - INFO - Temporary files cleaned up
